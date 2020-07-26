@@ -29,7 +29,7 @@ export const App = () => {
           <h2>{advice}</h2>
           <button className="buton" onClick={fetchAdvice}>
             <span>
-              <h4>Show today's advisor</h4>
+              <h4>Show today's advice</h4>
             </span>
           </button>
         </div>
